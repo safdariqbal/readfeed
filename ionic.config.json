@@ -1,0 +1,7 @@
+{
+  "name": "Butterscotch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
