@@ -1,2 +1,3 @@
 # butterscotch
-Butterscotch is a personal read-it-later app, combined with a feed reader
+Butterscotch is a feed generator for your reading list.
+
