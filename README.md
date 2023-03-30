@@ -1,3 +1,3 @@
-# butterscotch
-Butterscotch is a feed generator for your reading list.
+# Readfeed
+Readfeed is a feed generator for your reading list.
 
