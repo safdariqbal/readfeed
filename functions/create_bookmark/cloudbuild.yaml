@@ -6,7 +6,7 @@ steps:
   - deploy
   - readfeed-create-bookmark
   - --region=us-central1
-  - --source=.
+  - --source=functions/create_bookmark
   - --trigger-http
   - --runtime=python312
 options:
