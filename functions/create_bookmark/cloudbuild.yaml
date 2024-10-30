@@ -6,8 +6,9 @@ steps:
   - deploy
   - readfeed-create-bookmark
   - --region=us-central1
-  - --source=functions/create_bookmark
+  - --source=./functions/create_bookmark
   - --trigger-http
   - --runtime=python312
+  - --no-allow-unauthenticated
 options:
   logging: CLOUD_LOGGING_ONLY
