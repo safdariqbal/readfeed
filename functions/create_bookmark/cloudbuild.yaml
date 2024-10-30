@@ -5,6 +5,7 @@ steps:
   - functions
   - deploy
   - readfeed-create-bookmark
+  - --entry-point=create_bookmark
   - --region=us-central1
   - --source=./functions/create_bookmark
   - --trigger-http
